@@ -1,0 +1,1 @@
+Course Syllabi with links and other resources for IDS 575 and 576 (Fall 2019 Edition). Please visit the [course webpage](https://chicagods.com/) for a better UI.
